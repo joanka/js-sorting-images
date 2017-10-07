@@ -1,3 +1,3 @@
-# JS Sorting Images
+# javascript-sorting-images
 
-https://joanka.github.io/sorting-portfolio-images
+https://joanka.github.io/js-sorting-images
